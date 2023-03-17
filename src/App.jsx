@@ -96,8 +96,7 @@ Docker is a company helping to redefine the way developers build, ship, and run 
 Although much of the European Space Agency’s work is done by satellites, some of the program's data storage and computing infrastructure is built on Amazon Web Services.
 The Guardian newspaper uses a wide range of AWS services to power an analytic dashboard used by editors to see how stories are trending in real time.
 The Financial Times is one of the world's leading business news organizations and they use Amazon Redshift to perform their analyses. In fact, Redshift performed their analyses so quickly, some thought it was malfunctioning. They were used to running queries overnight. The Times found that the results were correct, just much faster.
-General Electric (GE) is, at this moment, migrating more than 9,000 workloads - including 300 disparate ERP systems - to AWS while reducing its data center footprint from 34 to four by 2021.
-The list goes on: Howard Medical School, McDonald's, NASA, Kellogg's, and many more benefit from Amazon Web Services
+General Electric (GE) is, at this moment, migrating more than 9,000 workloads - including 300 disparate ERP systems - 
       </p>
     </div>
   );
